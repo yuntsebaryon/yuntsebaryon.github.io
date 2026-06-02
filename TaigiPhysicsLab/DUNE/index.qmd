@@ -1,0 +1,7 @@
+---
+title: "DUNE"
+listing:
+  contents: .
+  sort: "date desc"
+  type: default
+---
