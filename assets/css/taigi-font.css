@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Iansui";
+  src: url("../fonts/Iansui-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: "Iansui", serif;
+}
