@@ -7,9 +7,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - href: assets/cv/Yun-Tse_Tsai_CV.pdf
-        text: CV
       - text: TaigiPhysicsLab
         menu:
           - href: TaigiPhysicsLab/DUNE/index.qmd
@@ -22,3 +19,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    mainfont: "Noto Serif CJK TC"
+    include-in-header:
+      text: |
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@300;400;500;600;700&display=swap" rel="stylesheet">

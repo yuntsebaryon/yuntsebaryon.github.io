@@ -2,5 +2,15 @@
 title: "Yun-Tse Tsai/Ûn-te̍k Chhòa/蔡昀澤"
 ---
 
-Welcome to [Yun-Tse Tsai/Ûn-te̍k Chhòa/蔡昀澤](assets/cv/Yun-Tse_Tsai_CV.pdf)'s page!
+Welcome to Yun-Tse Tsai/Ûn-te̍k Chhòa/蔡昀澤's page!
 
+Staff scientist in Fundamental Physics Directorate at SLAC National Accelerator Laboratory.
+
+Experimental physicist with extensive experience in hadron colliders and in neutrino experiments
+based on the liquid-argon time-projection chamber (LArTPC). Led the project of a LArTPC R&D
+setup at SLAC, the commissioning of the data acquisition (DAQ) system of the MicroBooNE
+experiment, physics analyses in astroparticle and exotic physics in MicroBooNE and DUNE, and
+measurement of electroweak top quark production cross section at DØ.
+
+More details can be found in my 
+<a href="assets/cv/Yun-Tse_Tsai_CV.pdf" target="_blank">CV</a>.
