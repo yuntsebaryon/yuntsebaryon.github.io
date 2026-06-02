@@ -1,1 +1,11 @@
 /* css styles */
+body {
+  font-family: "Noto Serif TC", "Noto Serif CJK TC", serif;
+  line-height: 1.7;
+  font-size: 18px;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Noto Serif TC", "Noto Serif CJK TC", serif;
+  font-weight: 600;
+}
