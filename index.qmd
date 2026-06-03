@@ -2,9 +2,7 @@
 title: "Yun-Tse Tsai/Ûn-te̍k Chhòa/蔡昀澤"
 ---
 
-Welcome to Yun-Tse Tsai/Ûn-te̍k Chhòa/蔡昀澤's page!
-
-Staff scientist in Fundamental Physics Directorate at SLAC National Accelerator Laboratory.
+Staff scientist, Fundamental Physics Directorate, SLAC National Accelerator Laboratory
 
 Experimental physicist with extensive experience in hadron colliders and in neutrino experiments
 based on the liquid-argon time-projection chamber (LArTPC). Led the project of a LArTPC R&D
